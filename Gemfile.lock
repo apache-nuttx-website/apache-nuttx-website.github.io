@@ -242,7 +242,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 203)
-  rouge
 
 BUNDLED WITH
    2.1.2

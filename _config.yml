@@ -17,7 +17,7 @@ markdown: kramdown
 permalink: /news/:year/:month/:day/:title/
 excerpt_separator: ""
 
-repository: https://github.com/apache/apache-website-template
+repository: https://github.com/apache-nuttx-website/apache-nuttx-website.github.io
 destination: target
 exclude: [README.md,Gemfile*,vendor]
 keep_files: [".git", ".svn", "apidocs"]
